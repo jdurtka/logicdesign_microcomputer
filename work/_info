@@ -1,0 +1,361 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/hw/12.2.4
+Ealu
+Z0 w1460664119
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl
+Z4 8C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/alu.vhd
+Z5 FC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/alu.vhd
+l0
+L9
+VG9mMXSo?J0GXzXadd6]fG0
+!s100 A;]SNPm04IKcSd6N=cnBD3
+Z6 OV;C;10.4b;61
+32
+Z7 !s110 1460664191
+!i10b 1
+Z8 !s108 1460664191.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/alu.vhd|
+Z10 !s107 C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/alu.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Aalu_arch
+R1
+R2
+Z13 DEx4 work 3 alu 0 22 G9mMXSo?J0GXzXadd6]fG0
+l21
+L19
+Z14 VlSVzRoN0VBmDN5Dim>?XI2
+Z15 !s100 ;>S66Ld0:WX3]o57W`gUG0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecomputer
+Z16 w1460663387
+R1
+R2
+R3
+Z17 8C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer.vhd
+Z18 FC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer.vhd
+l0
+L9
+V>G3gAn[@<=XDBb:]o`2?n3
+!s100 BmOHd[[EJ];=a8W65HZiN1
+R6
+32
+Z19 !s110 1460664190
+!i10b 1
+Z20 !s108 1460664190.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer.vhd|
+Z22 !s107 C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer.vhd|
+!i113 1
+R11
+R12
+Acomputer_arch
+R1
+R2
+DEx4 work 8 computer 0 22 >G3gAn[@<=XDBb:]o`2?n3
+l108
+L47
+VIK?8;6:I9hB?3_bVj<G<b3
+!s100 M4Z?:J7Hb4JMgjJ@N?5K^1
+R6
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R11
+R12
+Ecomputer_tb
+Z23 w1460618735
+R1
+R2
+R3
+Z24 8C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer_TB.vhd
+Z25 FC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer_TB.vhd
+l0
+L18
+V:6Mfb8BIbMnB;11j7N09c0
+!s100 5JWm2o>BLD@M3B8LP1A^k2
+R6
+32
+R19
+!i10b 1
+R20
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer_TB.vhd|
+Z27 !s107 C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer_TB.vhd|
+!i113 1
+R11
+R12
+Acomputer_tb_arch
+R1
+R2
+DEx4 work 11 computer_tb 0 22 :6Mfb8BIbMnB;11j7N09c0
+l101
+L21
+VHh4SJNV`L6SKY_O75bzDz0
+!s100 hY=E[83gZ;z4nVVdYjhAJ2
+R6
+32
+R19
+!i10b 1
+R20
+R26
+R27
+!i113 1
+R11
+R12
+Econtrol_unit
+Z28 w1460663500
+R1
+R2
+R3
+Z29 8C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/control_unit.vhd
+Z30 FC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/control_unit.vhd
+l0
+L10
+V07jS`=;]MUkF>MXZF>IVO3
+!s100 ?cOeli]dUSOPL4n`4Tflk1
+R6
+32
+R7
+!i10b 1
+R8
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/control_unit.vhd|
+Z32 !s107 C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/control_unit.vhd|
+!i113 1
+R11
+R12
+Acontrol_unit_arch
+R1
+R2
+DEx4 work 12 control_unit 0 22 07jS`=;]MUkF>MXZF>IVO3
+l31
+L29
+V0l4?M`I2bQ8iN35feeFoe0
+!s100 MRQk?cS]m4L:`F3mQ?FO33
+R6
+32
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R11
+R12
+Ecpu
+Z33 w1460663442
+R1
+R2
+R3
+Z34 8C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/cpu.vhd
+Z35 FC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/cpu.vhd
+l0
+L11
+VFDg5Nd@3AK?Gj438@bBfF2
+!s100 R0k:52DKSKRVVCLNk5XTO0
+R6
+32
+R19
+!i10b 1
+R20
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/cpu.vhd|
+Z37 !s107 C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/cpu.vhd|
+!i113 1
+R11
+R12
+Acpu_arch
+R1
+R2
+DEx4 work 3 cpu 0 22 FDg5Nd@3AK?Gj438@bBfF2
+l80
+L21
+VBD96M2ccGb;:F6Y@E<?BL1
+!s100 :JMkX[Bg?G;D_c>L^m0Lm0
+R6
+32
+R19
+!i10b 1
+R20
+R36
+R37
+!i113 1
+R11
+R12
+Edata_path
+Z38 w1460664175
+R1
+R2
+R3
+Z39 8C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/data_path.vhd
+Z40 FC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/data_path.vhd
+l0
+L9
+VoH[j=k0]j=Q^o7Qe>B1Tm3
+!s100 eJDEi_f_:LbJ^XYQ1bd5>1
+R6
+32
+R19
+!i10b 1
+R20
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/data_path.vhd|
+Z42 !s107 C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/data_path.vhd|
+!i113 1
+R11
+R12
+Adata_path_arch
+R1
+R2
+DEx4 work 9 data_path 0 22 oH[j=k0]j=Q^o7Qe>B1Tm3
+l49
+L31
+VWG3]GNj]aVVYl8VdQiN=e1
+!s100 N]ebX<zM>h`4Q_fABCAP=1
+R6
+32
+R19
+!i10b 1
+R20
+R41
+R42
+!i113 1
+R11
+R12
+Ememory
+Z43 w1460663435
+R1
+R2
+R3
+Z44 8C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/memory.vhd
+Z45 FC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/memory.vhd
+l0
+L10
+V0L@[]2EHNZRSb9:5bCR2c3
+!s100 8TNI2OX`k_KN2]:=zOGVF2
+R6
+32
+R19
+!i10b 1
+R20
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/memory.vhd|
+Z47 !s107 C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/memory.vhd|
+!i113 1
+R11
+R12
+Amemory_arch
+R1
+R2
+DEx4 work 6 memory 0 22 0L@[]2EHNZRSb9:5bCR2c3
+l75
+L54
+VllgDhogMc:Iz<YHJz=mF31
+!s100 OAzNbF386g@VV@g<9P=[_0
+R6
+32
+R19
+!i10b 1
+R20
+R46
+R47
+!i113 1
+R11
+R12
+Erom_128x8_sync
+Z48 w1460663519
+R1
+R2
+R3
+Z49 8C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rom_128x8_sync.vhd
+Z50 FC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rom_128x8_sync.vhd
+l0
+L9
+V;]O3WjKfa@0i8gPE]MzWf2
+!s100 :HPDVWm_84OiFJPPNY_m^3
+R6
+32
+R7
+!i10b 1
+R8
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rom_128x8_sync.vhd|
+Z52 !s107 C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rom_128x8_sync.vhd|
+!i113 1
+R11
+R12
+Arom_128x8_sync_arch
+R1
+R2
+DEx4 work 14 rom_128x8_sync 0 22 ;]O3WjKfa@0i8gPE]MzWf2
+l18
+L16
+VCT_i9N47dQN6BINN^H7=>2
+!s100 nhb7a`9b^>K`EgnGG6EgJ2
+R6
+32
+R7
+!i10b 1
+R8
+R51
+R52
+!i113 1
+R11
+R12
+Erw_96x8_sync
+Z53 w1460663471
+R1
+R2
+R3
+Z54 8C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rw_96x8_sync.vhd
+Z55 FC:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rw_96x8_sync.vhd
+l0
+L9
+V:zX0ddTlbRQKDXzo_gO:g1
+!s100 RkQ83eO^c`DE_]EC;850K2
+R6
+32
+R7
+!i10b 1
+R8
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rw_96x8_sync.vhd|
+Z57 !s107 C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rw_96x8_sync.vhd|
+!i113 1
+R11
+R12
+Arw_96x8_sync_arch
+R1
+R2
+DEx4 work 12 rw_96x8_sync 0 22 :zX0ddTlbRQKDXzo_gO:g1
+l20
+L18
+VEib2[BGkC1;zcb0E5BYj=3
+!s100 G82_;VOdG3SA@<^;4``T<0
+R6
+32
+R7
+!i10b 1
+R8
+R56
+R57
+!i113 1
+R11
+R12

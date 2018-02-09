@@ -1,0 +1,73 @@
+{C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer_TB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer_TB.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity computer_TB
+-- Compiling architecture computer_TB_arch of computer_TB
+
+} {} {}} {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/cpu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/cpu.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cpu
+-- Compiling architecture cpu_arch of cpu
+
+} {} {}} {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/control_unit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/control_unit.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity control_unit
+-- Compiling architecture control_unit_arch of control_unit
+
+} {} {}} {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rom_128x8_sync.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rom_128x8_sync.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity rom_128x8_sync
+-- Compiling architecture rom_128x8_sync_arch of rom_128x8_sync
+
+} {} {}} {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/memory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/memory.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity memory
+-- Compiling architecture memory_arch of memory
+
+} {} {}} {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/data_path.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/data_path.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity data_path
+-- Compiling architecture data_path_arch of data_path
+
+} {} {}} {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/alu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/alu.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu
+-- Compiling architecture alu_arch of alu
+
+} {} {}} {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/computer.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity computer
+-- Compiling architecture computer_arch of computer
+
+} {} {}} {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rw_96x8_sync.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/jdurt/Desktop/School Stuff/2016 Spring/367 - Logic Design/final_proj/vhdl/rw_96x8_sync.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity rw_96x8_sync
+-- Compiling architecture rw_96x8_sync_arch of rw_96x8_sync
+
+} {} {}}
